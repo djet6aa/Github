@@ -1,0 +1,138 @@
+
+H1 {
+    margin: 0;
+    text-align: center;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+
+header {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 100%;
+    height: 100px;
+}
+
+body {
+    background-color: black;
+    background-image: url("image/img-manga.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0;
+}
+
+#menu {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: -56px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+#Ma {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+    font-family: verdana;
+    font-size: large;
+    color: blueviolet;
+}
+
+#menu a:hover {
+    background-color: goldenrod;
+}
+
+#blocform {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    text-align: left;
+}
+
+#mp {
+    margin-left: 10px;
+}
+
+.G {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}
+
+.s {
+    margin-left: 40%;
+}
+
+.formtitle {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#formulary {
+    margin-top: 50px;
+}
+
+.title {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.garcon {
+    width: 80px;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.fille {
+    width: 80px;
+    height: auto;
+    margin-left: auto;
+    margin-left: auto;
+}
+.news {
+    text-align: center;
+}
+.discord {
+    width: 100px;
+    float: right;
+}
+
+.main {
+    margin-left: 160px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 1000px;
+    height: 1500px;
+    background-color: rgb(255, 255, 255, 0.5);
+    color: blueviolet;
+    border: 8px cyan solid;
+}
+
+.title_main {
+    background-color: rgb(75, 198, 255);
+    margin: 50px 100px 0px 100px;
+}
+
+.content1,
+.content2,
+.content3,
+.content4 {
+    height: 250px;
+    margin: 50px 50px 100px 50px;
+    background-color: white;
+}
